@@ -1,3 +1,11 @@
-# Programming-Competitions
+# Programming Competitions Assignments
 
-95143017
+
+    Mojtaba Zolfaghari
+    95143017
+---
+
+
+Porting the `Vali-e-Asr University of Rafsanjan` assignments.
+
+Department of Computer Science.
